@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TAMTAM1993
-- 👀 I’m interested in ...Limux, VoIp and Vicidial
+- 👀 I’m interested in ...Linux, VoIp and Vicidial
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...Vicidial
 - 📫 How to reach me ...rahulcreation74@gmail.com

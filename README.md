@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TAMTAM1993
+- 👋 Hi, I’m Rahul Singh
 - 👀 I’m interested in ...Linux, VoIp and Vicidial
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...Vicidial
